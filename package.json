@@ -1,0 +1,27 @@
+{
+  "name": "untv-music-player",
+  "description": "music player extension for untv",
+  "version": "0.1.0",
+  "author": "Gordon Hall <gordon@gordonwritescode.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gordonwritescode/untv-music-player.git"
+  },
+  "license": "GPL",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "keywords": [
+    "untv",
+    "drm-free",
+    "music",
+    "player",
+    "tv"
+  ],
+  "dependencies": {
+    "async": "~0.2.9",
+    "jade": "~0.35.0",
+    "musicmetadata": "~0.2.7"
+  }
+}
+
